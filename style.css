@@ -1,0 +1,24 @@
+body{
+  background:#020617;
+  font-family:Arial;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+table{
+  border-collapse:collapse;
+  color:white;
+  background:#0f172a;
+}
+
+th, td{
+  padding:10px 14px;
+  border:1px solid #334155;
+  cursor:pointer;
+}
+
+th{
+  background:#1e293b;
+}
